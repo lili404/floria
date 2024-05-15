@@ -1,0 +1,1 @@
+player slimefarm_bot spawn at 461 190 -1795 facing ~ ~ in minecraft:overworld

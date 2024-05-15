@@ -1,2 +1,2 @@
-player woodfarmbot swapHands once
+player woodfarm_bot swapHands once
 schedule function sys:treefarm_swaphands 30s

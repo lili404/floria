@@ -1,0 +1,1 @@
+player woodfarm_bot use interval 1

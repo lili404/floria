@@ -1,1 +1,0 @@
-player woodfarmbot use interval 1
