@@ -2,9 +2,9 @@ Bunch of stuff I'd like to add to my server.
 
 # TODO
 
-Status Legend:
-✅ - Completed/Added
-🕒 - WIP
+Status Legend: <br>
+✅ - Completed/Added <br>
+🕒 - WIP <br>
 ❌ - To Do/To Be Added
 
 ## Datapacks
