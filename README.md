@@ -1,23 +1,44 @@
 Bunch of stuff I'd like to add to my server.
 
-## TODO
-Datapack: 
-- [ ] Bot entity spawning functions
-- [ ] Crafting recipes for CIT hats 
+# TODO
+## Datapacks
+### Bot related (floria-bots)
+| Task | Notes | Status |
+|---|:---:|:---:|
+|Bot entity spawning functions|-|❌|
 
-Resource pack:
-- [ ] CIT hats' models and textures
-- [ ] CIT totems' textures
-- [ ] Menu panorama
-- [ ] Seasonal resourcepacks(finish template one first!)
+### Cosmetics related (floria-cosmetics)
+| Task | Notes | Status |
+|---|:---:|:---:|
+|Crafting recipes for CIT hats|-|❌|
 
-Survival server:
-- [ ] Server icon rework
-- [ ] server.properties(add a placeholder to MOTD for bad internet connection issue)
-- [ ] MiniMOTD mod config files
-- [ ] Custom tab list mod config file
-- [ ] Telegram to Minecraft bridge(to use commands)
-- [ ] Server boot script(date check, MOTD/icon swap, Telegram bot notification)
+## Resource packs
+### Template (floria-template)
+| Part of the resource pack | Notes | Status |
+|---|:---:|:---:|
+|VanillaTweaks||❌|
+|Smooth Grass|Make it optional|❌|
+|CIT Hats|-|❌|
+|CIT Tools|-|❌|
+|CIT Armor|-|❌|
+|CIT Totems|-|❌|
+|Menu panorama|As a placeholder|❌|
 
-Creative server:
-- [ ] Dedicated logo
+### Spring (floria-spring)
+| Part of the resource pack | Notes | Status |
+|---|:---:|:---:|
+
+## Misc
+|Task|Notes|Status|
+|---|:---:|:---:|
+|Icon rework|-|❌|
+|server.properties|Add a placeholder to MOTD|❌|
+|MiniMOTD mod config file|-|❌|
+|Tab list mod config file|-|❌|
+|Telegram to Minecraft bridge|To control the server via Telegram bot|❌|
+|Server boot script|Automate seasonal stuff changes|❌|
+
+## Creative server
+|Task|Notes|Status|
+|---|:---:|:---:|
+|Dedicated icon|-|❌|
